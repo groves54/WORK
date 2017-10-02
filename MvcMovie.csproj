@@ -6,6 +6,10 @@
     <StartupObject>MvcMovie.Program</StartupObject>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Include="Views\Movies\Index.html" />
+  </ItemGroup>
+
 
   <ItemGroup>
     <PackageReference Include="AppHarbor.NET" Version="2.2.0" />
